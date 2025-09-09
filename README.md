@@ -31,5 +31,10 @@
 
 ## 🖼️ Imagens
 [Dashboard](https://github.com/user-attachments/files/22238432/Projeto.Alura.Olist.Dashboard.pdf) 
+
+## 📁 Arquivos do Projeto
+
+- `Projeto_ETL_Olist.pbix`: Arquivo principal do Power BI com todas as transformações e modelagem realizadas.
+
 ## 📌 Projeto desenvolvido por **Bruno Xavier**  
 ## 🔗[LinkedIn](https://www.linkedin.com/in/brunoax/)
