@@ -32,4 +32,4 @@
 ## 🖼️ Imagens
 [Dashboard](https://github.com/user-attachments/files/22238432/Projeto.Alura.Olist.Dashboard.pdf) 
 ## 📌 Projeto desenvolvido por **Bruno Xavier**  
-## 🔗[LinkedIn](https://www.linkedin/in/Brunoax)
+## 🔗[LinkedIn](https://www.linkedin.com/in/brunoax/)
