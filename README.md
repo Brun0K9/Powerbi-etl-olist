@@ -34,7 +34,7 @@
 
 ## 📁 Arquivos do Projeto
 
-- `Projeto_ETL_Olist.pbix`: Arquivo principal do Power BI com todas as transformações e modelagem realizadas.
+- `[Projeto_ETL_Olist.pbix](https://github.com/Brun0K9/Powerbi-etl-olist/blob/main/Ecommerce%20olist%20Alura.pbix)`: Arquivo principal do Power BI com todas as transformações e modelagem realizadas.
 
 ## 📌 Projeto desenvolvido por **Bruno Xavier**  
 ## 🔗[LinkedIn](https://www.linkedin.com/in/brunoax/)
